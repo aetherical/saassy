@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Creating an Infrastructure with SAAS",
+    "packageVersion": "0.0.0",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "aetherical",
+    "githubRepository": "saassy"
+  }
+}
