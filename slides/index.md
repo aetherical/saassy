@@ -1,10 +1,6 @@
 
-# Creating an Infrastructure with SAAS
+## Creating an
+## Infrastructure
+## with SAAS
 
-From the terminal, pop in:
-
-  ```yo reveal:slide "Slide Title"```
-
-Available options:
-
- ```--markdown --attributes --notes```
+Matt Williams / [matthewkwilliams.com](http://matthewkwilliams.com)
